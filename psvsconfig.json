@@ -1,0 +1,17 @@
+{
+    "projectpath": "C:/Users/samsaguine/OneDrive - DXC Production/Desktop/PsVersion/Projects/",
+    "oradir": "C:/Users/samsaguine/OneDrive - DXC Production/Desktop/PsVersion/tnsnames.ora",
+    "passhash": 1555617606,
+    "envdata": {        
+        "VABFBIS": {
+            "dbcs": "(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 1.1.1.1)(PORT = 1000)))(CONNECT_DATA =(SERVER = DEDICATED)(SERVICE_NAME = VABFBIS)))",
+            "user": "SYSADM",
+            "password": "vvycTA==*B71Np7f1wrYz2kjZwMLrjQ==*8Doxwv072Q6qyM6DfwBs7A==*fVy4KiOx274rf4oa0SdNPQ=="
+        },
+        "VABFBIBIS": {
+            "dbcs": "(DESCRIPTION = (ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 1.1.1.2)(PORT = 1100)))(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = VABFBIBIS)))",
+            "user": "SYSADM",
+            "password": "77JF0w==*LInULdkGlbrxhlQcvWP77Q==*p0ajnlEl9p5xg32s5LXOgg==*/vcN+tIDwximIZXkR/OiJQ=="
+        }
+    }
+}
